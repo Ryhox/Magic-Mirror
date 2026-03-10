@@ -8,7 +8,7 @@
 - Designed for a modular widget system (planned)
 
 ## Planned Widgets
-- Weather
+- Weather (Location)
 - Music (Spotify)
 - Clock
 - News
