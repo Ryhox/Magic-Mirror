@@ -9,7 +9,7 @@
 
 ## Planned Widgets
 - Weather
-- Music
+- Music (Spotify)
 - Clock
 - News
 - ...
